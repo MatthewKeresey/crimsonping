@@ -22,7 +22,7 @@ THE SOFTWARE.
 
 ---
 
-CrimsonPing™ is an unregistered trademark of [Your Full Name or Entity].  
+CrimsonPing™ is an unregistered trademark of [Matthew Keresey].  
 This license does not grant permission to use the name "CrimsonPing", or  
 any associated logos or visual branding, without express written permission,  
 except when referring to the official open-source project.
